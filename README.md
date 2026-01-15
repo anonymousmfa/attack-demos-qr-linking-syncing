@@ -4,7 +4,7 @@ This repository contains demonstration videos illustrating the attacks evaluated
 
 ---
 
-## 1. Malware-Assisted Shoulder Surfing (Attack 2: Browser Syncing)
+## Malware-Assisted Shoulder Surfing (Attack 2: Browser Syncing)
 
 A nearby attacker visually captures the victim’s QR code. When the attacker scans it, the malware instantly clicks the “Approve/Yes” prompt (that do not generate any spoken feedback) and then regenerates a fresh QR code so the victim continues normally.
 
@@ -15,7 +15,7 @@ A nearby attacker visually captures the victim’s QR code. When the attacker sc
 
 ---
 
-## 2. Attack 3: Malware-Assisted Remote Attack for Concurrent Access (Attack 3: Browser Syncing)
+## Attack 3: Malware-Assisted Remote Attack for Concurrent Access (Attack 3: Browser Syncing)
 
 The malware captures the displayed QR code and uploads it to a remote attacker. After the attacker scans it, the malware auto-approves the sync request and regenerates a new QR code so the victim does not notice. This enables fully remote, silent concurrent access.
 
