@@ -8,6 +8,8 @@ This repository contains demonstration videos illustrating the attacks evaluated
 
 The video exhibits several accessibility issues in the Signal secure (E2EE) messaging app, including the lack of communicated feedback during the linking process, the absence of any announced unique identifier, and inaccessible navigation paths that are unstructured or not properly communicated by screen readers, preventing users from locating the unique identifier required for verification.
 
+Note: The phone number was intentionally hidden after capturing the video. If the screen reader had been able to communicate the phone number, we would have needed to edit the audio for anonymity; however, it did not announce it, even though it was displayed on the screen.
+
 <video controls width="720">
   <source src="signal-inaccessibility.mp4" type="video/mp4">
   Your browser does not support the video tag.
