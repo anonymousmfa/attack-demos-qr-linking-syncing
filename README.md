@@ -20,7 +20,7 @@ A nearby attacker visually captures the victim’s QR code. When the attacker sc
 
 
 
-- [View/Download Demo Video: Malware_Assisted Shoulder Surfing.mp4](./Malware_Assisted Shoulder Surfing.mp4)
+- [View/Download Demo Video: Malware_Assisted Shoulder Surfing.mp4](./Malware_Assisted-Shoulder-Surfing.mp4)
 
 
 ---
