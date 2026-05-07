@@ -20,7 +20,7 @@ A nearby attacker visually captures the victim’s QR code. When the attacker sc
 
 
 
-- [View/Download Demo Video: Malware_Assisted-Shoulder-Surfing.mp4](./Malware_Assisted-Shoulder-Surfing.mp4)
+- [View/Download Demo Video: Malware_Assisted-Shoulder-Surfing.mp4](./Malware_Assisted_Shoulder_Surfing.mp4)
 
 
 ---
@@ -30,4 +30,4 @@ A nearby attacker visually captures the victim’s QR code. When the attacker sc
 The malware captures the displayed QR code and uploads it to a remote attacker. After the attacker scans it, the malware auto-approves the sync request and regenerates a new QR code so the victim does not notice. This enables fully remote, silent concurrent access.
 
 
-- [View/Download Demo Video: Malware-Assisted-Remote-Attack.mp4](./Malware-Assisted-Remote-Attack.mp4)
+- [View/Download Demo Video: Malware-Assisted-Remote-Attack.mp4](./Malware_Assisted_Remote_Attack.mp4)
