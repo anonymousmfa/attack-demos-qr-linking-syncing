@@ -10,10 +10,7 @@ The video exhibits several accessibility issues in the Signal secure (E2EE) mess
 
 Note: The phone number was intentionally hidden after capturing the video. If the screen reader had been able to communicate the phone number, we would have needed to edit the audio for anonymity; however, it did not announce it, even though it was displayed on the screen.
 
-<video controls width="720">
-  <source src="signal-inaccessibility.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+- [View/Download Demo Video: signal-inaccessibility.mp4](./signal-inaccessibility.mp4)
 
 ---
 
@@ -21,10 +18,10 @@ Note: The phone number was intentionally hidden after capturing the video. If th
 
 A nearby attacker visually captures the victim’s QR code. When the attacker scans it, the malware instantly clicks the “Approve/Yes” prompt (that do not generate any spoken feedback) and then regenerates a fresh QR code so the victim continues normally.
 
-<video controls width="720">
-  <source src="Malware_Assisted Shoulder Surfing.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+- [View/Download Demo Video: Malware_Assisted Shoulder Surfing.mp4](./Malware_Assisted Shoulder Surfing.mp4)
+
 
 ---
 
@@ -32,7 +29,5 @@ A nearby attacker visually captures the victim’s QR code. When the attacker sc
 
 The malware captures the displayed QR code and uploads it to a remote attacker. After the attacker scans it, the malware auto-approves the sync request and regenerates a new QR code so the victim does not notice. This enables fully remote, silent concurrent access.
 
-<video controls width="720">
-  <source src="Malware-Assisted Remote Attack.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+- [View/Download Demo Video: Malware-Assisted Remote Attack.mp4](./Malware-Assisted Remote Attack.mp4)
